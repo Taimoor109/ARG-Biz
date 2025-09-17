@@ -1,0 +1,5 @@
+scenario,freight_multiplier,customs_per_kg,demand_shock_pct,price_adj_pct,spoilage_rate_pct,procurement_cycle_days
+Baseline,1.00,0.40,0.00,0.00,3.0,14
+High Freight,1.25,0.40,-0.02,0.00,3.0,14
+Demand Spike,1.00,0.40,0.15,0.03,3.0,14
+Flood Disruption,1.60,0.45,-0.08,0.00,5.0,21
