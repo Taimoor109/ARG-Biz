@@ -1,0 +1,3 @@
+month,input_volume_kg,pct_cutting,pct_preprocessed,pct_rte,yield_cutting_pct,yield_preprocessed_pct,yield_rte_pct,fee_cutting_per_kg,fee_preprocessed_per_kg,fee_rte_per_kg
+2025-08,20000,0.30,0.40,0.30,98,95,90,0.80,1.20,2.00
+2025-09,22000,0.30,0.40,0.30,98,95,90,0.80,1.20,2.00
