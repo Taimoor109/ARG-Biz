@@ -1,0 +1,13 @@
+mp_id,area,channel,fridge_deployed,daily_demand_kg,price_per_kg,dist_cost_per_kg
+MP-01,Bedok,Mini,No,58.0,13.0,1.2
+MP-02,Woodlands,Mini,No,62.5,13.0,1.2
+MP-03,Jurong West,Mini,No,60.3,13.0,1.2
+MP-04,Tampines,Restaurant,No,92.4,12.5,1.0
+MP-05,Punggol,Restaurant,No,98.6,12.5,1.0
+MP-06,Hougang,Restaurant,No,96.2,12.5,1.0
+MP-07,Yishun,Home,No,34.7,14.0,1.5
+MP-08,Bukit Panjang,Mini,No,57.9,13.0,1.2
+MP-09,Queenstown,Restaurant,No,94.1,12.5,1.0
+MP-10,Serangoon,Home,No,36.4,14.0,1.5
+MP-11,Clementi,Mini,No,61.2,13.0,1.2
+MP-12,Pasir Ris,Restaurant,No,99.5,12.5,1.0
