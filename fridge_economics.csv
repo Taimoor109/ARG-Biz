@@ -1,0 +1,2 @@
+model,capex_sgd,depreciation_months,maintenance_sgd_month,energy_sgd_month,rental_income_sgd_month,uplift_demand_pct,spoilage_reduction_pct
+AR-FRZ-300,1200,24,10,25,0,35,50
